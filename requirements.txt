@@ -1,0 +1,11 @@
+requests>=2.31
+pandas>=2.1
+pyarrow>=14.0
+tqdm>=4.66
+# Added now so the environment is ready for later phases:
+rdkit>=2023.9
+scikit-learn>=1.4
+xgboost>=2.0
+shap>=0.44
+streamlit>=1.30
+matplotlib>=3.8

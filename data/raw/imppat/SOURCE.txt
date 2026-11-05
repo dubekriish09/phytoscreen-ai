@@ -1,0 +1,5 @@
+﻿Database: IMPPAT (Indian Medicinal Plants, Phytochemistry And Therapeutics)
+URL: https://imsc.res.in
+Date Downloaded: 2026-11-05
+Release Name: IMPPAT 3.0
+Files Included: Both structural/mapping files
